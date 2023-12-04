@@ -1,0 +1,99 @@
+---
+title: Proceedings of Machine Learning Research
+booktitle: Proceedings of the 3rd Machine Learning for Health Symposium
+shortname: ML4H
+year: '2023'
+volume: '225'
+start: 2023-12-10
+end: 2023-12-10
+published: 2023-12-04
+conference_number: '3'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ML4H2023
+month: 0
+tex_title: Proceedings of the 3rd Machine Learning for Health Symposium
+cycles: false
+bibtex_editor: Hegselmann, Stefan and Parziale, Antonio and Shanmugam, Divya and Tang,
+  Shengpu and Asiedu, Mercy Nyamewaa and Chang, Serina and Hartvigsen, Tom and Singh,
+  Harvineet
+editor:
+- given: Stefan
+  family: Hegselmann
+- given: Antonio
+  family: Parziale
+- given: Divya
+  family: Shanmugam
+- given: Shengpu
+  family: Tang
+- given: Mercy Nyamewaa
+  family: Asiedu
+- given: Serina
+  family: Chang
+- given: Tom
+  family: Hartvigsen
+- given: Harvineet
+  family: Singh
+description: |
+  Proceedings of the 3rd Machine Learning for Health Symposium
+    Held in New Orleans, Louisiana, USA on 10 December 2023
+
+  Published as Volume 225 by the Proceedings of Machine Learning Research on 04 December 2023.
+
+  Volume Edited by:
+    Stefan Hegselmann
+    Antonio Parziale
+    Divya Shanmugam
+    Shengpu Tang
+    Mercy Nyamewaa Asiedu
+    Serina Chang
+    Tom Hartvigsen
+    Harvineet Singh
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 10 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v225"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v225
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v225
+email: ''
+conference:
+  name: Machine Learning for Health (ML4H)
+  url: https://ml4health.github.io/2023/
+  location: New Orleans, Louisiana, USA
+  dates:
+  - 2023-12-10
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v225/ml4h23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v225/ml4h23.bib
